@@ -88,7 +88,7 @@
         background-color:transparent;
         color:hsl(0, 0%, 95%);
     }
-    @media screen and (min-width: 375px) and (max-width: 1440px)  {
+    @media  (max-width: 970px)  {
         .boxes{
             flex-direction:column;
             padding: 5rem 0;
